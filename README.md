@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Covee-codes
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning web and app development
+- 🌱 A junior web and app developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
