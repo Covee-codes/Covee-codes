@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Covee-codes
-- 👀 I’m interested in software development
-- 🌱 A junior web and app developer
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Covenant Draxler
+- 👀 I develop websites & softwares
+- 💞️ I’m looking to collaborate on webdev projects
 - 📫 How to reach me ...
 
 <!---
